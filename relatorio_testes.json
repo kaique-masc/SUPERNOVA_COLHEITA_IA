@@ -1,0 +1,28 @@
+{
+    "projeto": "Supernova Colheita",
+    "data": "2026-11-10T18:49:24.967070",
+    "modelo_principal": "gemini-3.5-flash-lite",
+    "testes": [
+        {
+            "id": 1,
+            "pergunta": "Quais documentos preciso para vender alimentos às escolas?",
+            "esperado": "Resposta sobre documentação do PNAE",
+            "resposta": "Olá! Como assistente virtual do projeto Supernova Colheita, orientarei você com base nas informações disponíveis.\n\nPara vender alimentos às escolas públicas pelo PNAE, você precisará observar as exigências da chamada pública, que incluem:\n\n* Documentação de identificação;\n* Comprovação de enquadramento na agricultura familiar;\n* Projeto de venda;\n* Requisitos sanitários aplicáveis.\n\nComo as exigências específicas dependem do edital e da modalidade de participação, orientamos que você consulte o edital da chamada pública e as fontes oficiais para obter a lista exata dos documentos necessários.\n\nFontes consultadas: Documentação para Participação\nModelo utilizado: gemini-3.5-flash-lite",
+            "status": "APROVADO"
+        },
+        {
+            "id": 2,
+            "pergunta": "Qual é o percentual mínimo de compras da agricultura familiar no PNAE em 2026?",
+            "esperado": "Informar 45%",
+            "resposta": "Olá! Como assistente virtual do projeto Supernova Colheita, ajudo você com informações sobre o PNAE com base nos dados disponíveis.\n\nEm resposta à sua pergunta: a partir de 2026, o percentual mínimo dos recursos federais repassados pelo FNDE para a alimentação escolar que devem ser utilizados na aquisição de alimentos da agricultura familiar é de **no mínimo 45%**.\n\nCaso precise de mais detalhes ou informações específicas, oriente-se a consultar o edital da chamada pública e as fontes oficiais.\n\nFontes consultadas: Agricultura Familiar e PNAE, Programa Nacional de Alimentação Escolar\nModelo utilizado: gemini-3.5-flash-lite",
+            "status": "APROVADO"
+        },
+        {
+            "id": 3,
+            "pergunta": "Quem ganhou a Copa do Mundo de 2002?",
+            "esperado": "Rejeitar pergunta fora do assunto",
+            "resposta": "Não encontrei informações sobre isso na base de conhecimento.",
+            "status": "APROVADO"
+        }
+    ]
+}
